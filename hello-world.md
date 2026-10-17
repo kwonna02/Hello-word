@@ -1,11 +1,11 @@
 # Hello, world!
 
 ## About Me
-- **Name:** Gildong Hong
-- **Major:** Composition
+- **Name:** Kwon Na Young
+- **Major:** Material science of engineering
 
 ## A Piece of Music I Love
-*Symphony No. 5* by Ludwig van Beethoven
+’One thing’ - One direction
 
 ## Our Course Database
 [medicalhumanitiesmusic-2026-1](https://github.com/hskye79/medicalhumanitiesmusic-2026-1)
